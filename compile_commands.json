@@ -1,0 +1,82 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-g",
+      "-Iinclude/",
+      "-Isrc/",
+      "-Wall",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/golds/programming/cpp/breakout",
+    "file": "/home/golds/programming/cpp/breakout/src/main.cpp",
+    "output": "/home/golds/programming/cpp/breakout/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-g",
+      "-Iinclude/",
+      "-Isrc/",
+      "-Wall",
+      "-c",
+      "-o",
+      "src/util/file.o",
+      "src/util/file.cpp"
+    ],
+    "directory": "/home/golds/programming/cpp/breakout",
+    "file": "/home/golds/programming/cpp/breakout/src/util/file.cpp",
+    "output": "/home/golds/programming/cpp/breakout/src/util/file.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-g",
+      "-Iinclude/",
+      "-Isrc/",
+      "-Wall",
+      "-c",
+      "-o",
+      "src/setup_opengl.o",
+      "src/setup_opengl.cpp"
+    ],
+    "directory": "/home/golds/programming/cpp/breakout",
+    "file": "/home/golds/programming/cpp/breakout/src/setup_opengl.cpp",
+    "output": "/home/golds/programming/cpp/breakout/src/setup_opengl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-g",
+      "-Iinclude/",
+      "-Isrc/",
+      "-Wall",
+      "-c",
+      "-o",
+      "src/input.o",
+      "src/input.cpp"
+    ],
+    "directory": "/home/golds/programming/cpp/breakout",
+    "file": "/home/golds/programming/cpp/breakout/src/input.cpp",
+    "output": "/home/golds/programming/cpp/breakout/src/input.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-g",
+      "-Iinclude/",
+      "-Isrc/",
+      "-Wall",
+      "-c",
+      "-o",
+      "src/collision.o",
+      "src/collision.cpp"
+    ],
+    "directory": "/home/golds/programming/cpp/breakout",
+    "file": "/home/golds/programming/cpp/breakout/src/collision.cpp",
+    "output": "/home/golds/programming/cpp/breakout/src/collision.o"
+  }
+]
